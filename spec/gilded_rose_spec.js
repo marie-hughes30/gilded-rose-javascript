@@ -4,4 +4,4 @@ describe("Gilded Rose", function() {
     update_quality();
   });
 
-});
+});//testing
